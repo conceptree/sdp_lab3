@@ -1,3 +1,5 @@
+package ual.sdp.lab3;
+
 import java.rmi.Naming;
 import java.net.MalformedURLException;
 import java.rmi.NotBoundException;

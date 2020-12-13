@@ -1,7 +1,7 @@
 # Image configs
 FROM alpine:latest
 WORKDIR /root/app
-ADD /* /root/app
+ADD out/artifacts/sdp_lab3_jar/sdp_lab3.jar /root/app
 
 # JDK
 RUN openjdk:15-slim-buster

@@ -1,3 +1,5 @@
+package ual.sdp.lab3;
+
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;
 

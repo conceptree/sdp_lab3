@@ -1,3 +1,5 @@
+package ual.sdp.lab3;
+
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 

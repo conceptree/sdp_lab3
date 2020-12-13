@@ -1,4 +1,5 @@
-import java.rmi.RemoteException;
+package ual.sdp.lab3;
+
 import java.io.*;
 
 public class ClientProgram {

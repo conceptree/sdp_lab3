@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ba2d94d-901c-41ee-ac14-81af4e9d1d18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdp_lab3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sdp_lab3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sdp_lab3/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sdp_lab3/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sdp_lab3/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ual/sdp/lab3/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ual/sdp/lab3/ClientProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ual/sdp/lab3/MathServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathServerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ual/sdp/lab3/MathServerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyLinkedMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ual/sdp/lab3/MyLinkedMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ServerProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ual/sdp/lab3/ServerProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/ual/sdp/lab3/data.csv" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +29,28 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Dockerfile" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
@@ -38,6 +67,41 @@
             <path>
               <item name="sdp_lab3" type="b2602c69:ProjectViewProjectNode" />
               <item name="sdp_lab3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdp_lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdp_lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdp_lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdp_lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdp_lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdp_lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="sdp_lab3_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdp_lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdp_lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdp_lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdp_lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sdp_lab3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sdp_lab3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lab3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -57,6 +121,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ual/sdp/lab3" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -80,15 +149,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607900329969</updated>
-      <workItem from="1607900332239" duration="761000" />
+      <workItem from="1607900332239" duration="1580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="761000" />
+    <option name="totallyTimeSpent" value="1580000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -124,6 +194,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
