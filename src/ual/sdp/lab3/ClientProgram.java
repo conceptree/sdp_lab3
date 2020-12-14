@@ -13,7 +13,7 @@ public class ClientProgram {
         String line  = "";
         String splitBy = ";";
         try {
-            BufferedReader br = new BufferedReader(new FileReader("./src/data.csv"));
+            BufferedReader br = new BufferedReader(new FileReader("./out/production/sdp_lab3/ual/sdp/lab3/data.csv"));
             br.readLine();
             while((line = br.readLine()) != null){
                 String[] file  = line.split(splitBy);

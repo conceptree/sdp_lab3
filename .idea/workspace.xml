@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ba2d94d-901c-41ee-ac14-81af4e9d1d18" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sdp_lab3/ual/sdp/lab3/data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ual/sdp/lab3/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ual/sdp/lab3/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ual/sdp/lab3/ClientProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ual/sdp/lab3/ClientProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ual/sdp/lab3/MathServerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ual/sdp/lab3/MathServerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ual/sdp/lab3/ServerProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ual/sdp/lab3/ServerProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ual/sdp/lab3/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +42,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/ual/sdp/lab3" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -109,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607900329969</updated>
       <workItem from="1607900332239" duration="1580000" />
-      <workItem from="1607963883108" duration="14405000" />
+      <workItem from="1607963883108" duration="14689000" />
     </task>
     <servers />
   </component>
