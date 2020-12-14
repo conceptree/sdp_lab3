@@ -9,6 +9,7 @@ public class MathServerClass extends UnicastRemoteObject implements MathServer {
     protected MathServerClass() throws  RemoteException {
         super();
     }
+
     //Maximum
     public double max(MyLinkedMap<Integer, Double> x) throws RemoteException{
         double maxVal = x.getValue(0);
@@ -20,7 +21,7 @@ public class MathServerClass extends UnicastRemoteObject implements MathServer {
         return maxVal;
     }
 
- //Minimum
+    //Minimum
     public double min(MyLinkedMap<Integer, Double> x) throws RemoteException{
         double minValue = x.getValue(0);
         for(int i=1; i < x.size(); i++){
@@ -31,7 +32,7 @@ public class MathServerClass extends UnicastRemoteObject implements MathServer {
         return minValue;
     }
 
-    //average
+    //Average
     public double avg(MyLinkedMap<Integer,Double> x) throws RemoteException{
         // x = sum[x++]/len
         double sumVal = 0;
@@ -42,9 +43,7 @@ public class MathServerClass extends UnicastRemoteObject implements MathServer {
         return Average;
     }
 
-
- //Standard Deviation
- //rever cálculo
+    //Standard Deviation
     public double sd(MyLinkedMap<Integer, Double> x) throws RemoteException{
         double sum = 0;
         double standardDeviation = 0;

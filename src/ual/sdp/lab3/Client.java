@@ -8,16 +8,9 @@ import java.rmi.RemoteException;
 public class Client {
     private MathServer mathServer;
 
-    public Client() {
-        try {
-            mathServer = (MathServer) Naming.lookup("rmi://127.0.0.1/MathServer1");
-        } catch (NotBoundException e) {
-            e.printStackTrace();
-        } catch (MalformedURLException e) {
-            e.printStackTrace();
-        } catch (RemoteException e) {
-            e.printStackTrace();
-        }
+    public Client() throws RemoteException, NotBoundException, MalformedURLException {
+        mathServer = (MathServer) Naming.lookup("rmi://127.0.0.1:4242/MathServer1");
+        System.out.println("---- Hello Server "+mathServer.getClass().getName()+" ----");
     }
 
     double max(MyLinkedMap<Integer, Double> x) throws RemoteException{

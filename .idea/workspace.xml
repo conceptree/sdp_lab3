@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="9ba2d94d-901c-41ee-ac14-81af4e9d1d18" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sdp_lab3/ual/sdp/lab3/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ual/sdp/lab3/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ual/sdp/lab3/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ual/sdp/lab3/ClientProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ual/sdp/lab3/ClientProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ual/sdp/lab3/MathServerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ual/sdp/lab3/MathServerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ual/sdp/lab3/ServerProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ual/sdp/lab3/ServerProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ual/sdp/lab3/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +31,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -42,6 +48,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/ual/sdp/lab3" />
     </key>
   </component>
@@ -57,6 +64,40 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.ClientProgram">
+    <configuration name="ClientProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ual.sdp.lab3.ClientProgram" />
+      <module name="sdp_lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ual.sdp.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ual.sdp.lab3.ServerProgram" />
+      <module name="sdp_lab3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ual.sdp.lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientProgram" />
+        <item itemvalue="Application.ServerProgram" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -68,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607900329969</updated>
       <workItem from="1607900332239" duration="1580000" />
-      <workItem from="1607963883108" duration="9802000" />
+      <workItem from="1607963883108" duration="14405000" />
     </task>
     <servers />
   </component>
@@ -85,6 +126,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="masterDetails">
     <states>

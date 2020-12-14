@@ -1,16 +1,19 @@
 package ual.sdp.lab3;
 
 import java.io.*;
+import java.net.MalformedURLException;
+import java.rmi.NotBoundException;
+import java.rmi.RemoteException;
 
 public class ClientProgram {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws RemoteException, NotBoundException, MalformedURLException {
         Client client = new Client();
         MyLinkedMap<Integer, Double> x =  new MyLinkedMap<Integer,Double>();
 
         String line  = "";
         String splitBy = ";";
         try {
-            BufferedReader br = new BufferedReader(new FileReader("src/data.csv"));
+            BufferedReader br = new BufferedReader(new FileReader("./src/data.csv"));
             br.readLine();
             while((line = br.readLine()) != null){
                 String[] file  = line.split(splitBy);
